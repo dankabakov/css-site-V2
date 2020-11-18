@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+/* Area #1 */
+
+.skills-table
+{
+  align-content: center;
+}
+
+.container {
+  padding: 0;
+  padding-bottom: -5px;
+  padding-top: 100px;
+  position: relative;
+  z-index: -3;
+  background: rgb(1,118,157);
+background: linear-gradient(180deg, rgba(1,118,157,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.mountain
+{
+  margin-bottom: -20px;
+}
+
+/* end of Area #1 */
+
+.profile-pic {
+  border-radius: 100%;
+  width: 200px;
+}
+
+.learning-1
+{
+  height: 300px;
+  width: 25%;
+  padding: 20px 20px 0px 20px;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+.learning-2
+{
+  text-align: left;
+  height: 300px;
+  width: 45%;
+  padding: 20px 20px 35px 20px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.skill-row
+{
+
+
+}
+
+
+.skill-title
+{
+  color: white;
+  font-size: 21px;
+  text-align: center;
+}
+
+.skill-text
+{
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+.img-skills
+{
+  padding: 20px;
+  width: 80px;
+}
+
+.skill-1
+{
+  vertical-align: top;
+  height: 50%;
+  width: 20%;
+  padding: 20px 20px 35px 20px;
+  margin: 10px;
+  background-color: #01769d;
+  display: inline-block;
+  border-radius: 10px;
+
+}
+.skill-2
+{
+  vertical-align: top;
+  height: 50%;
+  width: 20%;
+  padding: 20px 20px 35px 20px;
+  margin: 10px;
+  background-color: #01769d;
+  display: inline-block;
+  border-radius: 10px;
+}
+.skill-3
+{
+  vertical-align: top;
+  height: 50%;
+  width: 20%;
+  padding: 20px 20px 35px 20px;
+  margin: 10px;
+  background-color: #01769d;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+
+.middle-container {
+margin: -110px 200px 0 200px;
+z-index: -5;
+}
+
+.bottom-container {}
